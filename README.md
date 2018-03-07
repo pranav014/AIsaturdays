@@ -16,8 +16,8 @@ This may be the simplest implementation of DQN to play Atari Games.
 
 ```
 git clone https://github.com/pranav014/AIsaturdays.git
-cd DQN-Atari-Tensorflow
-python AtariDQN.py
+cd 
+python 
 
 ```
 
